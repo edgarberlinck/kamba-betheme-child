@@ -5,7 +5,7 @@
  * @package Kamba Betheme Child Theme
  * @author Edgar Muniz Berlinck
  * @link https://github.com/edgarberlinck/kamba-betheme-child
- * @version 1.0.0
+ * @version 1.0.1
  */
 
 /**
