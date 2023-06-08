@@ -35,7 +35,7 @@
 
 		<div class="mfn-ch-footer-buttons">
 			<a href="<?php echo wc_get_checkout_url(); ?>" class="button button_full_width button_theme"><?php esc_html_e( 'Proceed to checkout', 'woocommerce' ); ?></a>
-			<a href="#" class="toggle-mfn-cart close-mfn-cart">Continuar comprando</a>
+			<a href="#" class="toggle-mfn-cart close-mfn-cart">Continuar a comprar</a>
 		</div>
 
 	</div>
