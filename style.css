@@ -7,3 +7,15 @@ Description: Child Theme for Betheme
 Template: betheme
 Version: 2.0
 */
+/* Make sthe `pay` button green*/
+a.woocommerce-button.wp-element-button.button.pay {
+	background-color: #489c6d
+}
+/* Adds some spacing between the buttons */
+a.woocommerce-button.wp-element-button.button {
+    padding: 8px;
+}
+/* Makes the buttons smaller */
+td.woocommerce-orders-table__cell.woocommerce-orders-table__cell-order-actions > a{
+	margin: 0 2px;
+}
