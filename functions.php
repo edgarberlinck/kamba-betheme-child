@@ -1,10 +1,11 @@
 <?php
 /**
- * Betheme Child Theme
+ * Kamba Betheme Child Theme
  *
- * @package Betheme Child Theme
- * @author Muffin group
- * @link https://muffingroup.com
+ * @package Kamba Betheme Child Theme
+ * @author Edgar Muniz Berlinck
+ * @link https://github.com/edgarberlinck/kamba-betheme-child
+ * @version 1.0.0
  */
 
 /**
